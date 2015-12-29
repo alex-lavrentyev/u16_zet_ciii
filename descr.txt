@@ -1,2 +1,3 @@
-здесь будет проект u16_zet
-для Cyclone-III.
+u16_zet for Cyclone-III.
+DRAM 48LC32M16A2 - 75 C (100 MHz)
+VGA analog output connected.
