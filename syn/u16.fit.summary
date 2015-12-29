@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Dec 24 14:49:59 2015
+Quartus II Version : 9.1 Build 350 03/24/2010 SP 2 SJ Full Version
+Revision Name : u16
+Top-level Entity Name : kotku
+Family : Cyclone III
+Device : EP3C25E144C8
+Timing Models : Final
+Total logic elements : 14,096 / 24,624 ( 57 % )
+    Total combinational functions : 13,114 / 24,624 ( 53 % )
+    Dedicated logic registers : 3,685 / 24,624 ( 15 % )
+Total registers : 3697
+Total pins : 63 / 83 ( 76 % )
+Total virtual pins : 0
+Total memory bits : 184,499 / 608,256 ( 30 % )
+Embedded Multiplier 9-bit elements : 2 / 132 ( 2 % )
+Total PLLs : 1 / 4 ( 25 % )

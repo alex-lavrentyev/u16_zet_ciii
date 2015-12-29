@@ -1,0 +1,9 @@
+BLOCK		START ADDRESS		END ADDRESS
+
+vgabios.hex		0x00100000		0x00107FFF
+zetbios.hex		0x00110000		0x0011FFFF
+Page_0		0x00120000		0x001CF6E8
+
+
+
+Note: All the addresses in this file are byte addresses
